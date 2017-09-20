@@ -1,7 +1,7 @@
 HOMEWORK 0
 Knowledge:
 - install google cloud platform
-- create key pair, and then use public key to create virtual machien on GCP, use private key to login
+- create key pair, and then use public key to create virtual machine on GCP, use private key to login
 - use sklearn
 - use python to plot
 - operate github in command line
